@@ -1,0 +1,46 @@
+div.P{
+	font-size: 50px;
+	margin-top: 50px;
+	margin-left: 40px
+}
+
+div.P2{
+	float: right;
+	font-size: 30px;
+	margin-top: -55px;
+	margin-right: 40px;
+}
+
+div.progress{
+	margin-left: 40px;
+	margin-right: 0px;
+}
+
+div p.P3{
+	margin-left: 40px;
+
+}
+
+hr.Linha{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+div h4.Título{
+	margin-left: 40px;
+}
+
+div img.Imagem{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	margin-left: 50px;
+}
+
+div.Nomes{
+
+}
+
+div.Números{
+	float: right;
+}
