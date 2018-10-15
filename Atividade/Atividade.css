@@ -8,7 +8,7 @@ div.P2{
 	float: right;
 	font-size: 30px;
 	margin-top: -55px;
-	margin-right: 40px;
+	margin-right: 0px;
 }
 
 div.progress{
@@ -23,24 +23,61 @@ div p.P3{
 
 hr.Linha{
 	margin-left: 40px;
-	margin-right: 40px;
+	margin-right: 0px;
 }
 
-div h4.Título{
+div h3.Título{
 	margin-left: 40px;
 }
 
+div.Div_Imagem{
+	float: left;
+}
+
 div img.Imagem{
-	width: 60px;
-	height: 60px;
+	width: 70px;
+	height: 70px;
 	border-radius: 50%;
-	margin-left: 50px;
+	margin-left: 40px;
+	margin-top: 10px;
 }
 
 div.Nomes{
-
+	float: left;
 }
 
-div.Números{
+div p.CAN1{
+	margin-top: 10px;
+	color: black;
+	font-size: 19px;
+	margin-left: 10px;
+}
+
+div small.C1{
+	margin-top: -10px;
+	font-size: 15px;
+	margin-left: 10px;
+}
+
+div.Info{
+	width: 80%;
+}
+
+div.Votos{
 	float: right;
+}
+
+div p.Texto{
+	margin-top: 10px;
+	font-size: 20px;
+	
+}
+
+div small.Pequeno{
+	margin-top: -10px;
+	font-size: 18px;
+}
+
+div.progress2{
+	
 }
